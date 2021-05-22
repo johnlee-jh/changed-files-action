@@ -3,6 +3,11 @@
 
 name: changed-file-action
 description: "Run certain actions for changed files only."
+branding:
+  icon: check
+  color: blue
+
+
 on: push
 
 jobs:
