@@ -1,4 +1,4 @@
-# Run actions for changed files only. Customizable for any language and action. Code below is an example for Flake8 on Python.
+# Run actions for changed files only. Customizable for any language and action.
 
 name: changed-file-action
 
